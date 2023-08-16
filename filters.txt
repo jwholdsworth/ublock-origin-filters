@@ -1,0 +1,1 @@
+facebook.com## div:has-text(/^(Suggested|Recommended|Post You May Like)/):upward(12)
